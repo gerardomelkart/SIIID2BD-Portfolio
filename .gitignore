@@ -1,0 +1,9 @@
+*.bak
+*.mdf
+*.ndf
+*.ldf
+*.dacpac
+*.bacpac
+.env
+.env.*
+*.log
